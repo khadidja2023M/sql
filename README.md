@@ -1,0 +1,1 @@
+This repository hosts a dynamic SQL-based dashboard, designed using Streamlit, to provide intuitive data visualization and analytics. The project emphasizes leveraging SQL for effective data management and combines it with Streamlit's capabilities for creating interactive, web-based dashboards. This approach enhances data presentation and user engagement
